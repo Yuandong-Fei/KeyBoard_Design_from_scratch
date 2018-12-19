@@ -18,3 +18,8 @@ Day 2
   PCB skills are required for designing the curcuit board that supports the software and the keys
   Design PCB circuit boards using Altium Designer, which operatres in windows and requires C# .
   
+Day 3
+ Having been doing stuff for University, I have delayed the project....
+ However, I'm back now. 
+ Started research again, learning about PCB designing using Altium Designer.
+ 
